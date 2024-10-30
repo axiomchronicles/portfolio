@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center" width="100%">
     <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
 </p>
@@ -226,3 +227,7 @@ To display your blog posts from dev.to on the portfolio:
 |      tailwindcss       |
 
 ---
+=======
+# portfolio
+Hi, I’m Pawan Kumar, a passionate BCA AI/ML student at Manav Rachna University with a keen interest in backend development, artificial intelligence, and web technologies. This portfolio showcases my journey through the world of programming and technology, highlighting my projects, skills, and growth.
+>>>>>>> origin/main
